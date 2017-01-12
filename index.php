@@ -174,7 +174,7 @@
 				<h4>EDUCATION</h4>
 				<p>Ball State University - Bachelor of Arts Telecommunications - 2004</p>
 				<h4>SKILLS</h4>
-				<p>HTML, CSS, PHP, MySQL, jQuery, Adobe Creative Suite, Bootstrap and Foundation frameworks</p>
+				<p>HTML, CSS, PHP, MySQL, jQuery, Adobe Creative Suite, Bootstrap and Foundation frameworks, WordPress</p>
 				<h4>REFERENCES</h4>
 				<p>Available on request</p>
 			</div>
